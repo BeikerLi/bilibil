@@ -1,7 +1,3 @@
-
-![images](pic/index.png)
-![images](pic/video.png)
-![images](pic/detail.png)
 😊小程序的基础语法
 😊小程序的请求与相应
 😍一个简易的demo
@@ -12,3 +8,10 @@
 2.视频：包括播放视频的功能，渲染视频详情页
 3.视频详情：点击进行播放功能，评论列表
 4:。温馨提示：本项目比较简易，主要感受小程序的数据请求，以及在前端渲染页面，对于图片素材并不是很完善
+
+
+
+![images](pic/index.png)
+![images](pic/video.png)
+![images](pic/detail.png)
+
