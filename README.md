@@ -10,7 +10,6 @@
 4:。温馨提示：本项目比较简易，主要感受小程序的数据请求，以及在前端渲染页面，对于图片素材并不是很完善
 
 
-
 ![images](pic/index.png)
 ![images](pic/video.png)
 ![images](pic/detail.png)
